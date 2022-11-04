@@ -40,7 +40,7 @@
 
 
 ## Github Stats  
-<img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical" alt="NabilSengooba"/></p>
+<img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NabilSengooba&show_icons=true&theme=radical" alt="NabilSengooba"/></p>
 
 
 
@@ -63,5 +63,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
