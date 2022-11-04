@@ -40,7 +40,7 @@
 
 
 ## Github Stats  
-<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanbahati&show_icons=true&locale=en&layout=compact" alt="NabilSengooba"/></p>
+<img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true&theme=radical" alt="NabilSengooba"/></p>
 
 
 
