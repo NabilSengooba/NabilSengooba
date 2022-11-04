@@ -44,8 +44,6 @@
 
 
 
-##Blog Posts  
-  
 
 <br/>  
 
@@ -54,7 +52,7 @@
 <br/>  
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=NabilSengooba&&style=flat-square" align="right" />
 </div>  
   
 
