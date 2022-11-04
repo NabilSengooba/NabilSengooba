@@ -40,9 +40,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NabilSengooba&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanbahati&show_icons=true&locale=en&layout=compact" alt="NabilSengooba"/></p>
 
-<br/>  
 
 
 ## Recent Blog Posts  
