@@ -1,6 +1,8 @@
 
 
 ### <div align="center">I'm Nabil, a very passionate Data Scientist💡</div>  
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
   
 
 - ##### 🌱 I’m currently learning about Recognition Systems  
